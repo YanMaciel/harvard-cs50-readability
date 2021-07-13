@@ -5,7 +5,7 @@ It is not reasonable to access a solution to some assessement prior to (re-)subm
 
 The essence of all work that you submit to the CS50 course **must be your own**. 
 
-# Readability
+# CS50's Readability
 In this exercise we needed to implement a command-line application using Python that first asks the user to type in some text, and then outputs the grade level for the text, according to the Coleman-Liau formula.
 
 The Coleman-Liau index is computed as 0.0588 * L - 0.296 * S - 15.8, where L is the average number of letters per 100 words in the text, and S is the average number of sentences per 100 words in the text.
